@@ -1,0 +1,9 @@
+,DifficultyLevel,NumberOfCrates,CrateRarity
+NewRow1,Casual,4,Epic
+NewRow2,Casual,1,Legendary
+NewRow3,Normal,4,Epic
+NewRow4,Normal,1,Legendary
+NewRow5,Hardcore,4,Epic
+NewRow6,Hardcore,1,Legendary
+NewRow7,Insane,4,Epic
+NewRow8,Insane,1,Legendary

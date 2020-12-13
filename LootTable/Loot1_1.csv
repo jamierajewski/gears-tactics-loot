@@ -1,0 +1,8 @@
+,"EntryType","LootMinRarity","LootMaxRarity","LootMinPowerLevel","LootMaxPowerLevel","LootType","LootSpecifier","AllowGrouping"
+"NewRow2","Reward","Rare","Rare",1,2,"Mod","Lancer","True"
+"NewRow3","Reward","Rare","Rare",1,2,"Mod","Lancer","True"
+"NewRow4","Reward","Rare","Rare",1,2,"Mod","RetroLancer","True"
+"NewRow5","Loot","Rare","Rare",1,1,"Mod","RetroLancer","True"
+"NewRow6","Loot","Rare","Rare",2,2,"Mod","RetroLancer","True"
+"NewRow7","Reward","Rare","Rare",1,1,"Character","Any| Any|-10","True"
+"NewRow8","Reward","Rare","Rare",1,1,"Character","Any| Any|-10","True"

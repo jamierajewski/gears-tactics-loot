@@ -1,0 +1,8 @@
+,EntryType,LootMinRarity,LootMaxRarity,LootMinPowerLevel,LootMaxPowerLevel,LootType,LootSpecifier,AllowGrouping
+NewRow2_Operation,Reward,Common,Common,1,2,Mod,Lancer,TRUE
+NewRow3_Operation,Reward,Common,Common,1,2,Mod,Lancer,TRUE
+NewRow4_Operation,Reward,Common,Common,1,2,Mod,RetroLancer,TRUE
+NewRow5_Operation,Loot,Common,Common,1,1,Mod,RetroLancer,TRUE
+NewRow6_Operation,Loot,Common,Common,2,2,Mod,RetroLancer,TRUE
+NewRow7_Operation,Reward,Common,Common,1,1,Character,Any| Any|-10,TRUE
+NewRow8_Operation,Reward,Common,Common,1,1,Character,Any| Any|-10,TRUE
